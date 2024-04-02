@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.login{
+    width: 15%;
+    background-color: transparent;
+    border: 8px solid #f900df;
+    margin-left: 550px;
+    padding: 50px;
+
+}
+label{
+    color: white;
+}
+button{
+    background-color: #f900df;
+    color: black;
+    height: 30px;
+    margin-left: 40px;
+    border-radius: 50px;
+}
+button:hover{
+    color: white;
+    background-color: transparent;
+    transition: 1.2s;
+}
